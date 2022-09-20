@@ -1,0 +1,157 @@
+-------------------------------------------------------------------------------
+Test set: org.example.Runners.Runners
+-------------------------------------------------------------------------------
+Tests run: 17, Failures: 17, Errors: 0, Skipped: 0, Time elapsed: 85.268 s <<< FAILURE! - in org.example.Runners.Runners
+runScenario(org.example.Runners.Runners)  Time elapsed: 5.894 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.886 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.902 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.884 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.863 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.877 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.861 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.86 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.826 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.874 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.833 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.883 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.874 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.858 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.918 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.879 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
+runScenario(org.example.Runners.Runners)  Time elapsed: 4.843 s  <<< FAILURE!
+org.openqa.selenium.SessionNotCreatedException: 
+Could not start a new session. Response code 500. Message: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 105.0.5195.127 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '4.2.0', revision: '86eb611648'
+System info: host: 'NBXRBQ93', ip: '192.168.1.102', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [null, newSession {capabilities=[Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}], desiredCapabilities=Capabilities {browserName: chrome, goog:chromeOptions: {args: [], extensions: []}}}]
+
